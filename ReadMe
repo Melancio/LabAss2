@@ -1,0 +1,10 @@
+Melance Gaudreault 4403946
+Lab Assignment 2 - Game of Craps
+
+To build:
+	$ make
+
+To run:
+	$ ./LabAss2
+
+Program will prompt player with game directions.
